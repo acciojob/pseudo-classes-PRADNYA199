@@ -1,10 +1,18 @@
 /*  your css code here. If applicable */
-body{
+:root{
 	background-color:rgb(135, 206, 235);
 }
-h1:first-child{
+section p:first-child{
 	background-color:black;
 	color:white;
+}
+section p:nth-child(3)
+{
+	color:red;
+}
+section p:nth-child(3)
+{
+	color:balck;
 }
 /*#p1{
 	color:black;
