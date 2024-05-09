@@ -2,15 +2,15 @@
 :root{
 	background-color:rgb(135, 206, 235);
 }
-section p:first-child{
+article p:first-child{
 	background-color:black;
 	color:white;
 }
-section p:nth-child(3)
+article p:nth-child(3)
 {
 	color:red;
 }
-section p:nth-child(3)
+article p:nth-child(3)
 {
 	color:balck;
 }
